@@ -1,4 +1,4 @@
-# rmd_bq_auth
+# bqauthrmd
 Slightly nicer bq_auth() experience for RMarkdown
 
 ## Usage
